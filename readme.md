@@ -2,6 +2,8 @@ A [bootstrapper](https://github.com/NancyFx/Nancy/wiki/Bootstrapper) implementat
 
 ## Usage
 
+[![Join the chat at https://gitter.im/NancyFx/Nancy.Bootstrappers.Autofac](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/NancyFx/Nancy.Bootstrappers.Autofac?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 When Nancy detects that the `AutofacNancyBootstrapper` type is available in the AppDomain of your application, it will assume you want to use it, rather than the default one.
 
 The easiest way to get the latest version of `AutofacNancyBootstrapper` into your application is to install the `Nancy.Bootstrappers.Autofac` nuget.
